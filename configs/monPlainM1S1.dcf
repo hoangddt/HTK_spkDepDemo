@@ -26,11 +26,11 @@ HCopy: y
 HList: n
 HQuant: n
 HLEd: n
-HInit: y
-HRest: y
-HERest: y
+HInit: n
+HRest: n
+HERest: n
 HSmooth: n
-HVite: y
+HVite: n
 
 <ENDtool_steps>:
 

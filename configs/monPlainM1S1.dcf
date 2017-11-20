@@ -22,13 +22,13 @@ Trace_tool_calls: y
 
 <BEGINtool_steps>
 
-HCopy: y
+HCopy: n
 HList: n
 HQuant: n
 HLEd: n
-HInit: n
-HRest: n
-HERest: n
+HInit: y
+HRest: y
+HERest: y
 HSmooth: n
 HVite: n
 
